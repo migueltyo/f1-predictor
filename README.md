@@ -25,6 +25,7 @@ The simulation generates realistic race outcomes, updates championship standings
 - **Visualizations:** Plots driver positions and cumulative points.
 - **Excel Outputs:** Detailed spreadsheets with race results and conditional formatting for podium finishes.
 - **Customizable Parameters:** Adjust weights for experience, reliability, and more.
+- More parameters to be added in the future.
 
 ---
 
