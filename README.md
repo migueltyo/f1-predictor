@@ -6,7 +6,7 @@ A data-driven Python project simulating the entire 2026 Formula 1 season, race b
 
 ---
 
-##  Overview
+## Overview
 
 This project simulates the entire 2026 F1 season, race-by-race, using:
 - **Historical performance** (2025 season data)
@@ -18,7 +18,7 @@ The simulation generates realistic race outcomes, updates championship standings
 
 ---
 
-##  Features
+## Features
 
 - **Race Simulation:** Predicts positions for each Grand Prix and sprint race.
 - **Championship Tracking:** Updates driver and constructor points after every race.
@@ -28,7 +28,7 @@ The simulation generates realistic race outcomes, updates championship standings
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 f1-2026-simulation/
 - main.py
