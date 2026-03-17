@@ -1,5 +1,5 @@
 gp_events = [
-    "Australia", "China Race", "China Sprint", "Japan", "Bahrain", "Miami Race", "Miami Sprint",
+    "Australia", "China Race", "China Sprint", "Japan", "Bahrain", "Saudi Arabia", "Miami Race", "Miami Sprint",
     "Canada Race", "Canada Sprint", "Monaco", "Barcelona", "Austria", "Britain Race", "Britain Sprint",
     "Belgium", "Hungary", "Netherlands Race", "Netherlands Sprint", "Italy", "Spain", "Azerbaijan",
     "Singapore Race", "Singapore Sprint", "USA", "Mexico", "Brazil", "Las Vegas", "Qatar", "Abu Dhabi"
